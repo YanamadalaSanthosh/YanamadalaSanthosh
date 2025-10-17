@@ -1,7 +1,7 @@
 <!-- GitHub Profile README for Yanamadala Santhosh -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Yanamadala+Santhosh;B.Tech+CSE+(AI+%26+ML)+Student;Aspiring+AI+Engineer+%7C+Software+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Yanamadala+Santhosh;B.Tech+CSE+(AI+%26+ML)+Student;Aspiring+AI+Engineer+%7C+Front+End+Developer" alt="Typing SVG" />
 </h1>  
 
 ---
